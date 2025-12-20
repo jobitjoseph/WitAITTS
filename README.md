@@ -1,6 +1,6 @@
 # 🎤 WitAITTS - Wit.ai Text-to-Speech Library
 
-### High-quality text-to-speech streaming for ESP32 and Raspberry Pi Pico W
+### High-quality text-to-speech streaming for ESP32, ESP32-S3, ESP32-C3 and Raspberry Pi Pico W
 
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-blue.svg)](https://www.arduino.cc/)
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Compatible-orange.svg)](https://platformio.org/)
