@@ -29,6 +29,12 @@
       "platforms": "espressif32"
     },
     {
+      "name": "ESP32-audioI2S-master",
+      "authors": "schreibfaul1",
+      "frameworks": "arduino",
+      "platforms": "espressif32"
+    },
+    {
       "name": "arduino-audio-tools",
       "version": "https://github.com/pschatzmann/arduino-audio-tools.git",
       "platforms": "raspberrypi"
