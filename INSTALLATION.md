@@ -5,6 +5,10 @@
 ### For Arduino IDE
 
 #### Step 1: Install WitAITTS Library
+1. Search for WitAITTS in library manager and install.
+
+-or
+   
 1. Download `WitAITTS-v1.0.0.zip`
 2. Open Arduino IDE
 3. Go to: **Sketch → Include Library → Add .ZIP Library...**
