@@ -77,7 +77,9 @@ DAC       → Speaker (4-8Ω)
 ## 📦 Installation
 
 ### Arduino IDE
-
+#### Library Manager Installation
+- Search for WitAITTS in the Arduino IDE library manager and install.
+#### Manual Installation
 1. Download this repository as ZIP
 2. In Arduino IDE: `Sketch` → `Include Library` → `Add .ZIP Library`
 3. Install dependencies based on your platform:
