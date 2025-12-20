@@ -68,6 +68,7 @@ monitor_speed = 115200
 lib_deps = 
     jobitjoseph/WitAITTS@^1.0.0
     https://github.com/pschatzmann/arduino-audio-tools.git
+    https://github.com/pschatzmann/arduino-libhelix.git
 
 ; ============================================
 ; Raspberry Pi Pico 2 W Configuration
@@ -81,3 +82,4 @@ monitor_speed = 115200
 lib_deps = 
     jobitjoseph/WitAITTS@^1.0.0
     https://github.com/pschatzmann/arduino-audio-tools.git
+    https://github.com/pschatzmann/arduino-libhelix.git
