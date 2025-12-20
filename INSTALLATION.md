@@ -7,7 +7,7 @@
 #### Step 1: Install WitAITTS Library
 1. Search for WitAITTS in library manager and install.
 
--or
+                            or
    
 1. Download `WitAITTS-v1.0.0.zip`
 2. Open Arduino IDE
