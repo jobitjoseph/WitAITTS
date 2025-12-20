@@ -19,7 +19,7 @@
 
 **For ESP32 / ESP32-C3 / ESP32-S3:**
 1. Go to: **Tools → Manage Libraries...**
-2. Search for "**BackgroundAudio**" → Click Install
+2. Search for "**BackgroundAudio**" and **ESP32-audioI2S-master** → Click Install
 3. Close Library Manager
 
 **For Pico W / Pico 2 W:**
@@ -62,6 +62,7 @@ monitor_speed = 115200
 lib_deps = 
     https://github.com/jobitjoseph/WitAITTS.git
     earlephilhower/BackgroundAudio
+    schreibfaul1/ESP32-audioI2S-master
 ```
 
 #### For ESP32-C3:
@@ -75,6 +76,7 @@ monitor_speed = 115200
 lib_deps = 
     https://github.com/jobitjoseph/WitAITTS.git
     earlephilhower/BackgroundAudio
+    schreibfaul1/ESP32-audioI2S-master
 ```
 
 #### For ESP32-S3:
@@ -88,6 +90,7 @@ monitor_speed = 115200
 lib_deps = 
     https://github.com/jobitjoseph/WitAITTS.git
     earlephilhower/BackgroundAudio
+    schreibfaul1/ESP32-audioI2S-master
 ```
 
 #### For Pico W:
