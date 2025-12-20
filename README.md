@@ -89,8 +89,9 @@ DAC       → Speaker (4-8Ω)
 - Search "**BackgroundAudio**" and **ESP32-audioI2S-master** → Install
 
 **For Pico W:**
-- Download ZIP from: https://github.com/pschatzmann/arduino-audio-tools
+- Download ZIP from: https://github.com/pschatzmann/arduino-audio-tools and https://github.com/pschatzmann/arduino-libhelix
 - Install via: `Sketch` → `Include Library` → `Add .ZIP Library`
+
 
 ### PlatformIO
 
@@ -109,6 +110,7 @@ lib_deps =
 lib_deps =
     jobitjoseph/WitAITTS@^1.0.0
     https://github.com/pschatzmann/arduino-audio-tools
+    https://github.com/pschatzmann/arduino-libhelix
 ```
 
 ---
@@ -399,8 +401,9 @@ Copyright © 2025 Jobit Joseph, Circuit Digest
 
 **Dependencies:**
 - [BackgroundAudio](https://github.com/earlephilhower/BackgroundAudio) by earlephilhower (ESP32)
-- - [ESP32-audioI2S-master](https://github.com/schreibfaul1/ESP32-audioI2S) by schreibfaul1 (ESP32)
+- [ESP32-audioI2S-master](https://github.com/schreibfaul1/ESP32-audioI2S) by schreibfaul1 (ESP32)
 - [arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) by Phil Schatzmann (Pico W)
+- [arduino-libhelix](https://github.com/pschatzmann/arduino-libhelix) by Phil Schatzmann (Pico W)
 
 **API:**
 - [Wit.ai](https://wit.ai) by Meta
