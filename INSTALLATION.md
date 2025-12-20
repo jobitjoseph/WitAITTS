@@ -23,7 +23,7 @@
 3. Close Library Manager
 
 **For Pico W / Pico 2 W:**
-1. Download ZIP from: https://github.com/pschatzmann/arduino-audio-tools
+1. Download ZIP from: https://github.com/pschatzmann/arduino-audio-tools and https://github.com/pschatzmann/arduino-libhelix
 2. In Arduino IDE: **Sketch → Include Library → Add .ZIP Library...**
 3. Select the downloaded ZIP file
 
@@ -104,6 +104,7 @@ monitor_speed = 115200
 lib_deps = 
     https://github.com/jobitjoseph/WitAITTS.git
     https://github.com/pschatzmann/arduino-audio-tools
+    https://github.com/pschatzmann/arduino-libhelix
 ```
 
 Build with:
