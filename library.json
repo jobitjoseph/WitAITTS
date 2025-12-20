@@ -38,6 +38,11 @@
       "name": "arduino-audio-tools",
       "version": "https://github.com/pschatzmann/arduino-audio-tools.git",
       "platforms": "raspberrypi"
+    },
+    {
+      "name": "arduino-libhelix",
+      "version": "https://github.com/pschatzmann/arduino-libhelix.git",
+      "platforms": "raspberrypi"
     }
   ],
   "frameworks": "arduino",
