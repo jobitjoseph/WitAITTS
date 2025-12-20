@@ -388,7 +388,7 @@ Copyright © 2025 Jobit Joseph, Circuit Digest
 
 **Jobit Joseph**
 - GitHub: [@jobitjoseph](https://github.com/jobitjoseph)
-- Email: jobitjoseph@gmail.com
+- Email: jobitjoseph1@gmail.com
 - Website: [Circuit Digest](https://circuitdigest.com)
 
 ---
