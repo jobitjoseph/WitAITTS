@@ -1,6 +1,6 @@
 {
   "name": "WitAITTS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wit.ai Text-to-Speech library for ESP32 and Raspberry Pi Pico W with audio streaming",
   "keywords": "tts, text-to-speech, wit.ai, esp32, esp32-c3, esp32-s3, pico, pico-w, rp2040, audio, streaming, i2s",
   "authors": [
